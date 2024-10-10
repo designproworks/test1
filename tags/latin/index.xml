@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latin on designproworks.com</title>
+    <link>//localhost:1313/tags/latin/</link>
+    <description>Recent content in Latin on designproworks.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>john@designproworks.com (John De Silva)</managingEditor>
+    <webMaster>john@designproworks.com (John De Silva)</webMaster>
+    <copyright>© 2024 John De Silva</copyright>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/latin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Placeholder Text</title>
+      <link>//localhost:1313/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <author>john@designproworks.com (John De Silva)</author>
+      <guid>//localhost:1313/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
