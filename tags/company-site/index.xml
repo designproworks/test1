@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Company Site on designproworks.com</title>
+    <link>//localhost:1313/tags/company-site/</link>
+    <description>Recent content in Company Site on designproworks.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>john@designproworks.com (John De Silva)</managingEditor>
+    <webMaster>john@designproworks.com (John De Silva)</webMaster>
+    <copyright>© 2024 John De Silva</copyright>
+    <atom:link href="//localhost:1313/tags/company-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>designproworks.com</title>
+      <link>//localhost:1313/users/o-john-de-silva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>john@designproworks.com (John De Silva)</author>
+      <guid>//localhost:1313/users/o-john-de-silva/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/o-john-de-silva/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Beauty Formulation</title>
+      <link>//localhost:1313/users/beauty-formulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>john@designproworks.com (John De Silva)</author>
+      <guid>//localhost:1313/users/beauty-formulation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/users/beauty-formulation/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
