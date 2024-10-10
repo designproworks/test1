@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on designproworks.com</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on designproworks.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>john@designproworks.com (Welcome To The Designpro Group)</managingEditor>
+    <webMaster>john@designproworks.com (Welcome To The Designpro Group)</webMaster>
+    <copyright>© 2024 Welcome To The Designpro Group</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 09:13:26 -0400</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architectual Millwork</title>
+      <link>//localhost:1313/posts/front-matter/</link>
+      <pubDate>Mon, 02 Sep 2024 07:26:54 -0400</pubDate>
+      <author>john@designproworks.com (Welcome To The Designpro Group)</author>
+      <guid>//localhost:1313/posts/front-matter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Mechanical Engineering</title>
+      <link>//localhost:1313/posts/front-matter/</link>
+      <pubDate>Tue, 01 Oct 2024 07:26:54 -0400</pubDate>
+      <author>john@designproworks.com (Welcome To The Designpro Group)</author>
+      <guid>//localhost:1313/posts/front-matter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Projects Continued...</title>
+      <link>//localhost:1313/posts/portfolio/</link>
+      <pubDate>Mon, 07 Oct 2024 07:26:54 -0400</pubDate>
+      <author>john@designproworks.com (Welcome To The Designpro Group)</author>
+      <guid>//localhost:1313/posts/portfolio/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/portfolio/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Website Developement</title>
+      <link>//localhost:1313/posts/website/</link>
+      <pubDate>Tue, 01 Oct 2024 07:26:54 -0400</pubDate>
+      <author>john@designproworks.com (Welcome To The Designpro Group)</author>
+      <guid>//localhost:1313/posts/website/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/website/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Home &amp; Office Manufacturing</title>
+      <link>//localhost:1313/posts/website/</link>
+      <pubDate>Thu, 01 Aug 2024 07:26:54 -0400</pubDate>
+      <author>john@designproworks.com (Welcome To The Designpro Group)</author>
+      <guid>//localhost:1313/posts/website/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/website/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Website Developement</title>
+      <link>//localhost:1313/posts/website/</link>
+      <pubDate>Tue, 01 Oct 2024 07:26:54 -0400</pubDate>
+      <author>john@designproworks.com (Welcome To The Designpro Group)</author>
+      <guid>//localhost:1313/posts/website/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/website/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Mechanical Engineering</title>
+      <link>//localhost:1313/posts/my-second-post/</link>
+      <pubDate>Mon, 07 Oct 2024 09:13:26 -0400</pubDate>
+      <author>john@designproworks.com (Welcome To The Designpro Group)</author>
+      <guid>//localhost:1313/posts/my-second-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
